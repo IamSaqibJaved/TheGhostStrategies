@@ -1,0 +1,73 @@
+{
+  "name": "The Ghost Strategies - Digital Service Agency",
+  "short_name": "The Ghost Strategies",
+  "description": "A digital service agency with 8+ years of experience providing professional digital solutions including Web Development, Graphic Designing, Social Media Marketing, and e-commerce support.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "lang": "en-US",
+  "categories": ["business", "productivity", "technology"],
+  "icons": [
+    {
+      "src": "/The Ghost Strategies.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/The Ghost Strategies.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/heroLanding.png",
+      "sizes": "1280x720",
+      "type": "image/png",
+      "form_factor": "wide"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "About Us",
+      "short_name": "About",
+      "description": "Learn about The Ghost Strategies team and mission",
+      "url": "/AboutUs",
+      "icons": [
+        {
+          "src": "/The Ghost Strategies.png",
+          "sizes": "96x96"
+        }
+      ]
+    },
+    {
+      "name": "Services",
+      "short_name": "Services",
+      "description": "View our digital services and solutions",
+      "url": "/#services",
+      "icons": [
+        {
+          "src": "/The Ghost Strategies.png",
+          "sizes": "96x96"
+        }
+      ]
+    },
+    {
+      "name": "Contact Us",
+      "short_name": "Contact",
+      "description": "Get in touch with The Ghost Strategies",
+      "url": "/#contact",
+      "icons": [
+        {
+          "src": "/The Ghost Strategies.png",
+          "sizes": "96x96"
+        }
+      ]
+    }
+  ]
+}
