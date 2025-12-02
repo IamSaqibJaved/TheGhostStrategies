@@ -22,7 +22,7 @@ export default function ContactUs() {
             <div className="w-16 h-0.5 bg-black mt-2 mx-auto"></div>
           </div>
           <h2 className="text-2xl sm:text-3xl md:text-4xl font-bold text-gray-900 leading-tight mb-4" style={{ fontFamily: 'Montserrat, sans-serif' }}>
-            We'd Love To Hear From You
+            We&apos;d Love To Hear From You
           </h2>
           <p className="text-base text-gray-600 leading-relaxed max-w-4xl mx-auto text-justify" style={{ fontFamily: 'Montserrat, sans-serif' }}>
             Get in touch with us. Our team will get back to you promptly with next steps and tailored guidance.
