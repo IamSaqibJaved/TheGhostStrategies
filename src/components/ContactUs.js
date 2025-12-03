@@ -12,7 +12,7 @@ export default function ContactUs() {
         <div className="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 w-72 h-72 sm:w-96 sm:h-96 bg-black/5 rounded-full blur-3xl" />
       </div>
 
-      <div className="mx-auto max-w-4xl px-4 sm:px-6 lg:px-8 relative z-10">
+      <div className="mx-auto max-w-6xl px-4 sm:px-6 lg:px-8 relative z-10">
         {/* Section Header */}
         <div className="text-center mb-12 sm:mb-16">
           <div className="mb-6">
@@ -30,7 +30,7 @@ export default function ContactUs() {
         </div>
 
         {/* Contact Details */}
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-8 lg:gap-12">
+        <div className="grid grid-cols-1 md:grid-cols-3 gap-8 lg:gap-22">
           {/* Phone Number */}
           <div className="flex flex-col items-center text-center group">
             <div className="flex-shrink-0 w-16 h-16 sm:w-20 sm:h-20 bg-black/10 rounded-xl flex items-center justify-center group-hover:scale-110 transition-all duration-300 mb-6">
@@ -47,14 +47,14 @@ export default function ContactUs() {
           {/* Email */}
           <div className="flex flex-col items-center text-center group">
             <div className="flex-shrink-0 w-16 h-16 sm:w-20 sm:h-20 bg-black/10 rounded-xl flex items-center justify-center group-hover:scale-110 transition-all duration-300 mb-6">
-              <svg className="w-8 h-8 sm:w-10 sm:h-10 text-black" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <svg className="w-9 h-8 sm:w-10 sm:h-10 text-black" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M3 8l7.89 4.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" />
               </svg>
             </div>
             <h4 className="text-lg sm:text-xl font-semibold text-gray-900 mb-3" style={{ fontFamily: 'Montserrat, sans-serif' }}>
               Email Address
             </h4>
-            <p className="text-gray-600 leading-relaxed font-medium text-base sm:text-lg break-all">theghoststrategiesllc@gmail.com</p>
+            <p className="text-gray-600 leading-relaxed font-medium text-base sm:text-lg whitespace-nowrap">Support@theghoststrategies.store</p>
           </div>
 
           {/* Address */}
@@ -69,8 +69,8 @@ export default function ContactUs() {
               Office Address
             </h4>
             <div className="space-y-1 text-gray-600">
-              <p className="leading-relaxed text-base sm:text-lg">43 S OGDEN ST</p>
-              <p className="leading-relaxed text-base sm:text-lg">DENVER, CO 80209</p>
+              <p className="leading-relaxed text-base sm:text-lg">312 W 2nd St Casper</p>
+              <p className="leading-relaxed text-base sm:text-lg">Wyoming</p>
             </div>
           </div>
         </div>

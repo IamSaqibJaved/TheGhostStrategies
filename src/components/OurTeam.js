@@ -10,7 +10,7 @@ import EmanImage from '../assets/people4.jpg';
 const TEAM_MEMBERS = [
   {
     id: 1,
-    name: 'Khawaja Hammad',
+    name: 'Muhammad Hammad Nawaz',
     position: 'Chief Executive Officer (CEO)',
     description: 'Leads the company\'s vision, strategy, and overall growth.',
     initials: 'KH',
