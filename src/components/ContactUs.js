@@ -69,8 +69,8 @@ export default function ContactUs() {
               Office Address
             </h4>
             <div className="space-y-1 text-gray-600">
-              <p className="leading-relaxed text-base sm:text-lg">312 W 2nd St Casper</p>
-              <p className="leading-relaxed text-base sm:text-lg">Wyoming</p>
+              <p className="leading-relaxed text-base sm:text-lg">75a Manchester Road</p>
+              <p className="leading-relaxed text-base sm:text-lg">Denton, Manchester M34 2AF</p>
             </div>
           </div>
         </div>

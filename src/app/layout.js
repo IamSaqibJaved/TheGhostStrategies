@@ -118,18 +118,18 @@ export const metadata = {
         },
         "address": {
           "@type": "PostalAddress",
-          "streetAddress": "312 W 2nd St",
-          "addressLocality": "Casper",
-          "addressRegion": "WY",
-          "postalCode": "82601",
-          "addressCountry": "US"
+          "streetAddress": "75a Manchester Road",
+          "addressLocality": "Denton",
+          "addressRegion": "Manchester",
+          "postalCode": "M34 2AF",
+          "addressCountry": "GB"
         },
         "serviceArea": {
           "@type": "GeoCircle",
           "geoMidpoint": {
             "@type": "GeoCoordinates",
-            "latitude": 40.7128,
-            "longitude": -74.0060
+            "latitude": 53.4568,
+            "longitude": -2.1183
           },
           "geoRadius": "10000000"
         },
